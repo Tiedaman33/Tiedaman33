@@ -16,7 +16,7 @@ What I Work On
 
 Building dynamic frontends using React, Vue.js, and TailwindCSS.
 
-Developing robust backends with Node.js, Express, and MongoDB.
+Developing robust backends with Python, Node.js, Express, and MongoDB.
 
 Ensuring seamless user experiences through well-thought-out designs and functionalities.
 
